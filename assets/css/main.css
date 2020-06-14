@@ -1984,7 +1984,9 @@ ul.actions:not(.fixed) li .button.icon:before {
 
 /* Tables */
 table {
-  width: 100%;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 table.default {
   width: 100%;

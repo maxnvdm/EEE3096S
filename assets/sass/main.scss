@@ -768,8 +768,9 @@ ul.actions {
 /* Tables */
 
 table {
-	width: 100%;
-
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
 	&.default {
 		width: 100%;
 
@@ -917,7 +918,7 @@ button,
 #header {
 	text-align: center;
 	padding: 2.5em 0 0 0;
-	background-image: url("images/trianglify-lowres.png");
+	background-image: url('images/trianglify-lowres.png');
 	background-repeat: repeat-x;
 	background-position: center;
 	// background-size: 100% 6em, 100% em, auto;
@@ -1071,7 +1072,7 @@ button,
 /* Banner */
 
 #banner {
-	background-image: url("images/duotone.png");
+	background-image: url('images/duotone.png');
 	background-position: center center;
 	background-size: cover;
 	height: 28em;
