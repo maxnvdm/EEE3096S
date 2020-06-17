@@ -771,6 +771,11 @@ table {
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
+
+	td {
+		padding: 0.5em 5em 0.5em 1em;
+	}
+	
 	&.default {
 		width: 100%;
 
